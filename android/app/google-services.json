@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517123417496",
+    "project_id": "andfr-b744c",
+    "storage_bucket": "andfr-b744c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517123417496:android:fd37e08ec6aac3a22477ed",
+        "android_client_info": {
+          "package_name": "com.andfr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517123417496-rjtong5vjaduhi649dc43n11t4fdo7in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtprGSTVH1Q3g2FXfaVYd0KirEVp-mXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517123417496-rjtong5vjaduhi649dc43n11t4fdo7in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
